@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Armando Aguiar Alamilla 👋
+
+- 💻 🏥 Full Stack Web Developer @ [Ecaresoft](https://www.ecaresoft.com/).
+- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/armandoaguiara/) 
+- 🤓 Always learning new stuff.
+- ⚡ Fun fact about me: I like to sleep in the hammock
 
 <!--
 **armandoalamilla/armandoalamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
