@@ -1,5 +1,6 @@
 ### Hi there I'm Armando Aguiar Alamilla 👋
 
+- 🏫 Bachelor of Science in Computer Science and Technology from Tec de Monterrey
 - 💻 🏥 Full Stack Web Developer @ [Ecaresoft](https://www.ecaresoft.com/).
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/armandoaguiara/) 
 - 🤓 Always learning new stuff.
